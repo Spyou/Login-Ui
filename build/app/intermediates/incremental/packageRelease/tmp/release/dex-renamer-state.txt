@@ -1,0 +1,4 @@
+#Wed Jun 07 14:17:19 IST 2023
+base.0=/Users/krishnavishwakarma/Desktop/Login Ui /login_ui/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
